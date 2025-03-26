@@ -1,4 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Rao
+- 🔭 I’m currently working on  Cryptography and Cyber security.
+- 🌱 I’m currently learning Cryptographic reverse firewall,  Trusted Execution Environment , Attributed-based Encryption and Identity based Encryption.
+- 💬 Ask me about anything related to CyberSpace Security.
+- 📫 Email Address: raogood123@qq.com
+- 😄 Read more about my Blog: [here](https://rao2357.top)
+- ⚡ Fun fact: ...
+                        
+### My Skill Set
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rao2357&layout=compact&theme=tokyonight#pic_center)
 
 <!--
 **rao2357/rao2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
